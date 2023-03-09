@@ -10,7 +10,6 @@ const config = {
 	kit: {
 		adapter: adapter(),
 		appDir: 'app',
-		target: '#svelte',
 	}
 };
 
